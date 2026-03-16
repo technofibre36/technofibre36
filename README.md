@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hii my name is Cyan mandal<br>🔭 I’m currently doing my B.Tech from RCCIIT<br>🌱 I’m currently learning solidity<br>
-
+Hii my name is Cyan mandal<br>
 
 <img align="center" src="https://github.com/AtigPurohit/AtigPurohit/blob/main/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg" width="2000" height = "300">
 
