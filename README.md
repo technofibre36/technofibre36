@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Cyan, and I am an AI/ML Engineer.
+My name is Cyan mandal, and I am an AI/ML Engineer.
 
 
 ## 🌐 Socials:
